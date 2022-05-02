@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="images/C.png" alt="C" width="100"/>
-  <img src="images/wordle.png" alt="wordle" width="200"/>
 </p>
 
 ---
