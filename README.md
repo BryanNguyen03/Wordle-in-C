@@ -1,4 +1,6 @@
 # Wordle in C
+![C icon](images/C.png)
+![Wordle logo](images/wordle.png)
 
 This project was a way for me to teach myself C and learn the basics of git and github. prior to this project, I've only had experience with Python and Java through my highschool and University courses.
 This project will be a text-based replica of the popular game called Wordle.
